@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/hotels"
+            android:title="@string/hotels"
+            android:icon="@drawable/ic_local_hotel_black_24dp"
+            />
+
+        <item
+            android:id="@+id/hostels"
+            android:icon="@drawable/icons8_bed_24"
+            android:title="@string/hostels" />
+
+        <item
+            android:id="@+id/motels"
+            android:icon="@drawable/ic_motels"
+            android:title="@string/motels" />
+
+        <item
+            android:id="@+id/appartaments"
+            android:icon="@drawable/icons8_apartment_50"
+            android:title="@string/appartaments" />
+    </group>
+</menu>
