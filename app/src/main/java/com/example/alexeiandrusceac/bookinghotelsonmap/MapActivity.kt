@@ -30,8 +30,10 @@ class MapActivity : AppCompatActivity(), OnMapReadyCallback  {
         val mapFragment = supportFragmentManager.findFragmentById(R.id.map2) as SupportMapFragment
         mapFragment.getMapAsync(this)
     }
-
+//////ca exemplu uitate mai jos
     /*override fun OnMapReady(googleMap: GoogleMap){
+
+https://www.raywenderlich.com/183588/introduction-google-maps-api-android-2
 
 
     }*/
